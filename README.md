@@ -6,8 +6,7 @@ O **FeedHub** é um projeto de interface simples e moderna inspirada em redes so
 
 ## 📸 Capturas de tela
 
-![Screenshot do jogo](./screenshot.png) <!-- Altere ou adicione uma imagem do jogo se desejar -->
-
+![Screenshot](https://github.com/marcelobueno25/feedhub.github/blob/master/screenshot.png) 
 ---
 
 ## 🚀 Tecnologias utilizadas
